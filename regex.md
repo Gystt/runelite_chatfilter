@@ -1,6 +1,3 @@
-# runelite_chatfilter
-Regex for the Chat Filter plugin of Runelite
-
 ```(?i)the first.*?won'?t regret it
 (?i)selling \d{1,3} (trouts?|salmone?s?|tunas?|logs?)
 (?i)[0-9\.].*?\/.*?[usd \/]m
