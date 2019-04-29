@@ -1,4 +1,4 @@
-```(?i)^taking (all )?(junk|items)$
+```(?i)^(taking|accepting)( all)? junk$
 (?i)^trading up .*?
 (?i)trading up \d+[km]
 (?i)i just got (scammed|hacked)
