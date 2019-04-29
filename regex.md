@@ -1,7 +1,7 @@
 # runelite_chatfilter
 Regex for the Chat Filter plugin of Runelite
 
-(?i)the first.*?won'?t regret it<br>
+```(?i)the first.*?won'?t regret it<br>
 (?i)selling \d{1,3} (trouts?|salmone?s?|tunas?|logs?)<br>
 (?i)[0-9\.].*?\/.*?[usd \/]m<br>
 (?i)(exchange|swap.*?) ((rs3.*?|eoc.*?)|07|osrs|os) (gold|gp)<br>
@@ -54,4 +54,4 @@ Regex for the Chat Filter plugin of Runelite
 (?i)huge giveaway.*?twitch\s?\/<br>
 (?i)quitting.*?shows? me \d+[km].*?free \d+[km]<br>
 (?i)dicing.*?(dice|flower) games?<br>
-(?i)most trusted swap cc<br>
+(?i)most trusted swap cc<br>```
