@@ -1,12 +1,11 @@
-```(?i)^spare (items|junk)
-(?i)^taking (all )?(junk|items)$
+```(?i)^taking (all )?(junk|items)$
 (?i)^trading up .*?
+(?i)trading up \d+[km]
 (?i)i just got (scammed|hacked)
 (?i)next \d+.*?win \d+[km]
 (?i)quitting.*?shows? me \d+[km].*?free \d+[km]
 (?i)selling \d{1,3} (trouts?|salmone?s?|tunas?|logs?)
 (?i)the first.*?won'?t regret it
-(?i)trading up \d+[km]
 (?i)[0-9\.].*?\/.*?[usd \/]m
 (?i)b\s?e\s?s\s?t.*?legit.*?s\s?i\s?t\s?e
 (?i)se[l1][l1]i?n?g?\s?\s?g\s?[o0]\s?[l1]\s?d
@@ -27,14 +26,13 @@
 (?i)\[lose\] rolled.*?unlucky
 (?i)\[win\] rolled \[\d+\]
 (?i)c\s?[o0]\s?m.*?bet g\s?p
-(?i)dice game.*?trusted.*?huge payouts
+(?i)(legit.*?)?dice game(.*?trusted.*?huge payouts)?
 (?i)dicing.*?(dice|flower) games?
 (?i)drop parties.*?giveaways.*?dice games?
 (?i)goodie bag.*?choose a number
 (?i)has been paid.*?\d+[km]
 (?i)has lost.*?with a roll
 (?i)has won.*?\[\d+[km].*?with a roll
-(?i)legit.*?dice game
 (?i)original rng is back.*?\(\d+[km] to \d+[km]
 (?i)trade accepted for .*?amount
 (?i)(best|come play).*?rsps
