@@ -1,4 +1,5 @@
 ```
+(?i)^(can|need) someone (to )?donate
 (?i)^(taking|accepting)( all)? junk$
 (?i)^trading up .*?
 (?i)trading up \d+[km]
