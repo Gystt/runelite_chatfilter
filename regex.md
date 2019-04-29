@@ -1,5 +1,4 @@
 ```
-(?i)^(taking|accepting)( all)? junk$
 (?i)^trading up .*?
 (?i)trading up \d+[km]
 (?i)i just got (scammed|hacked)
@@ -18,7 +17,7 @@
 (?i)j?o?i?n?.*?\d+\s?([km]|million) giveaway
 (?i)(exchange|swap.*?) ((rs3.*?|eoc.*?)|07|osrs|os) (gold|gp)
 (?i)join\s?(\[.*?swap.*?\]|>>.*?<<.*?most trusted|.*?check forums|.*?for daily rewards|.*?most trusted.*?swap cc)
-(?i)most trusted swap cc
+(?i)(join )?most trusted (gp )?swap (cc|clan chat)
 (?i)swap your (rs3\/07|07\/rs3)?\s?(gold|gp|money|items)
 (?i)want to transfer your (rs3\/07|07\/rs3)
 (?i)\[.*?\] - \[\d+[km]\] bet
