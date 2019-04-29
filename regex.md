@@ -1,5 +1,5 @@
 ```(?i)^spare (items|junk)
-(?i)^taking (all)?(junk|items)$
+(?i)^taking (all )?(junk|items)$
 (?i)^trading up .*?
 (?i)i just got (scammed|hacked)
 (?i)next \d+.*?win \d+[km]
