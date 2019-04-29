@@ -55,3 +55,4 @@ Regex for the Chat Filter plugin of Runelite
 (?i)quitting.*?shows? me \d+[km].*?free \d+[km]
 (?i)dicing.*?(dice|flower) games?
 (?i)most trusted swap cc
+```
