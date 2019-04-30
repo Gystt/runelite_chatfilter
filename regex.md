@@ -44,4 +44,19 @@
 (?i)huge payouts.*?\(\d+[km] to \d+[km]
 (?i)rewarding players \d+[km].*?youtube
 (?i)search on youtube.*?win \d+[km]
+(?i)^tripling money
+(?i)[0-9\.] usd\/m
+(?i)discord.*?free \d+[km].*?give\s?aways?
+(?i)firecape & acc
+(?i)please need \d+[km]( i'?m new)?
+(?i)^(can )?anyone double my money
+(?i)^i need gp please
+(?i)anyone (spare |help with )a?\s?(bond|money|g\s?p|gold)
+(?i)daily.*?(give\s?aways?|drop\s?parties)
+(?i)given away every hour
+(?i)i do (1|one )trade (double|triple)
+(?i)i'?ll double your \d+[gkm]
+(?i)first (2|too?)\s?trade (double|triple) money
+(?i)^need money (please|plz)
+(?i)could use help with a bond
 ```
