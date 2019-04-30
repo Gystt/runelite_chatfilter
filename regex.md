@@ -8,9 +8,9 @@
 (?i)i do (1|one) trade (doubl|tripl)(e|ing)
 (?i)i'?ll (doubl|tripl)e your \d+[gkm]
 (?i)(legit.*?)?dice game(.*?trusted.*?huge payouts?)?
-(?i)\[.*?\] - \[\d+[km]\] bet
-(?i)\[\d+[km]\] paid
-(?i)\[automated\].*?x\d+.*?\[\d+[km]-\d+[km]
+(?i)\[.*?\] - \[\d+[gkm]\] bet
+(?i)\[\d+[gkm]\] paid
+(?i)\[automated\].*?x\d+.*?\[\d+[gkm]-\d+[gkm]
 (?i)\[lose\] rolled.*?unlucky
 (?i)\[win\] rolled \[\d+\]
 (?i)c\s?[o0]\s?m.*?bet g(\s?p|old)
@@ -18,20 +18,20 @@
 (?i)drop parties.*?give\s?aways?.*?dice games?
 (?i)goodie bag.*?choose a number
 (?i)hosting.*?\d+[gkm] min
-(?i)has (been paid.*?\d+[km]|(lost.*?|won.*?\[\d+[km].*?)with a roll)
-(?i)huge payouts?.*?\(\d+[km] to \d+[km]
-(?i)next \d+.*?win \d+[km]
-(?i)original rng is back.*?\(\d+[km] to \d+[km]
+(?i)has (been paid.*?\d+[gkm]|(lost.*?|won.*?\[\d+[gkm].*?)with a roll)
+(?i)huge payouts?.*?\(\d+[gkm] to \d+[gkm]
+(?i)next \d+.*?win \d+[gkm]
+(?i)original rng is back.*?\(\d+[gkm] to \d+[gkm]
 (?i)trade accepted for .*?amount
 (?i)(search on )?(twitch(\/tv)?|youtube)(.*?win \d+[gkm]|.*?give\s?aways?)
-(?i)\d+[km]\+? give\s?aways?
+(?i)\d+[gkm]\+? give\s?aways?
 (?i)daily.*?(give\s?aways?|drop\s?parties)
-(?i)discord.*?free \d+[km].*?give\s?aways?
+(?i)discord.*?free \d+[gkm].*?give\s?aways?
 (?i)given away every hour
 (?i)huge give\s?aways?.*?(twitch\/?t?v?|youtube)\s?\/
-(?i)j?o?i?n?.*?\d+\s?([km]|million) give\s?away?s
+(?i)j?o?i?n?.*?\d+\s?([gkm]|million) give\s?away?s
 (?i)rewarding players \d+[gkm].*?(twitch|youtube)
-(?i)weekly.*?earn up to \d+[km] o?s?r?s? g(\s?p|old)
+(?i)weekly.*?earn up to \d+[gkm] o?s?r?s? g(\s?p|old)
 (?i)^(can|need) someone (to )?donate
 (?i)^(taking|accepting)( all)? junk$
 (?i)^i need (gp|gold|money|items?) (please|pl(s|z))
@@ -45,7 +45,7 @@
 (?i)i'?m a noob,?\s?can someone help
 (?i)need free (g(\sp|old)|money|items?)
 (?i)please need \d+[gkm]( i'?m new)?
-(?i)trading up \d+[km]
+(?i)trading up \d+[gkm]
 (?i)(exchange|swap.*?) ((rs3.*?|eoc.*?)|07|osrs|os) (g(\sp|old)|money|items?)
 (?i)(join.*?)?most trusted.*?(g\s?p |gold )?swap (cc|clan chat)
 (?i)join\s?(\[.*?swap.*?\]|>>.*?<<.*?most trusted|.*?check forums|.*?for daily rewards|.*?most trusted.*?swap cc)
@@ -59,7 +59,7 @@
 (?i)s\s*e\s*l\s*l\s*r\s*s\s*0\s*7
 (?i)se[l1][l1]i?n?g?\s?\s?g\s?[o0]\s?[l1]\s?d
 (?i)free membership
-(?i)quitting.*?shows? me \d+[km].*?free \d+[km]
+(?i)quitting.*?shows? me \d+[gkm].*?free \d+[gkm]
 (?i)selling \d{1,3} (trouts?|salmone?s?|tunas?|logs?)
 (?i)the first.*?won'?t regret it
 (?i)want to earn.*?money.*?account
