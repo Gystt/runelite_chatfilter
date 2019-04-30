@@ -1,4 +1,5 @@
 ```
+(?i)^(doubl|tripl)ing (g(\s?p|old)|money|items?)$
 (?i)^(doubl|tripl)ing$
 (?i)(2|two|too?) trade (doubl|tripl)ing
 (?i)(can )?(any\s?(1|one) )?(doubl|tripl)(e( my)?|ing) ((g(\sp|old)|money|items?).*?((\d+[gkm] left|or (g(\sp|old)|money|items?))|up\s?to\s?\d+[gkm])|((till )?\d+[gkm]|g(\sp|old)|money|items?))
