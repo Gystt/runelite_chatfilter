@@ -59,4 +59,5 @@
 (?i)first (2|too?)\s?trade (double|triple) money
 (?i)^need money (please|plz)
 (?i)could use help with a bond
+(?i)s\s*e\s*l\s*l\s*r\s*s\s*0\s*7
 ```
