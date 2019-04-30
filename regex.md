@@ -17,6 +17,7 @@
 (?i)dicing.*?(dice|flower) games?
 (?i)drop parties.*?give\s?aways?.*?dice games?
 (?i)goodie bag.*?choose a number
+(?i)hosting.*?\d+[gkm] min
 (?i)has (been paid.*?\d+[km]|(lost.*?|won.*?\[\d+[km].*?)with a roll)
 (?i)huge payouts?.*?\(\d+[km] to \d+[km]
 (?i)next \d+.*?win \d+[km]
