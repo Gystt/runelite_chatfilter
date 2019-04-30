@@ -40,7 +40,7 @@
 (?i)(best|come play).*?rsps
 (?i)free membership
 (?i)huge give\s?aways?.*?(twitch\/?t?v?|youtube)\s?\/
-(?i)(twitch\/?t?v?|youtube).*?give\s?away
+(?i)(twitch\/?t?v?|youtube).*?give\s?aways?
 (?i)huge payouts.*?\(\d+[km] to \d+[km]
 (?i)rewarding players \d+[km].*?youtube
 (?i)search on youtube.*?win \d+[km]
