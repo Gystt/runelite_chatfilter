@@ -14,9 +14,9 @@
 (?i)want to earn.*?money.*?account
 (?i)weekly.*?earn up to \d+[km] o?s?r?s? g(\s?p|old)
 (?i)a?n?y?o?n?e?\s?doubl(e|ing) (gp|money|items|gold).*?((\d+[km] left|or (gp|money|items|gold))|u?p?\s?t?o?\s?\d+[km])
-(?i)\d+[km]\+? giveaways?
+(?i)\d+[km]\+? give\s?aways?
 (?i)bypass g\.e limits at \[.*?\] cc
-(?i)j?o?i?n?.*?\d+\s?([km]|million) giveaway
+(?i)j?o?i?n?.*?\d+\s?([km]|million) give\s?away?s
 (?i)(exchange|swap.*?) ((rs3.*?|eoc.*?)|07|osrs|os) (gold|gp)
 (?i)join\s?(\[.*?swap.*?\]|>>.*?<<.*?most trusted|.*?check forums|.*?for daily rewards|.*?most trusted.*?swap cc)
 (?i)(join.*?)?most trusted.*?(gp )?swap (cc|clan chat)
@@ -30,7 +30,7 @@
 (?i)c\s?[o0]\s?m.*?bet g\s?p
 (?i)(legit.*?)?dice game(.*?trusted.*?huge payouts)?
 (?i)dicing.*?(dice|flower) games?
-(?i)drop parties.*?giveaways.*?dice games?
+(?i)drop parties.*?give\s?aways?.*?dice games?
 (?i)goodie bag.*?choose a number
 (?i)has been paid.*?\d+[km]
 (?i)has lost.*?with a roll
@@ -39,7 +39,8 @@
 (?i)trade accepted for .*?amount
 (?i)(best|come play).*?rsps
 (?i)free membership
-(?i)huge giveaway.*?(twitch|youtube)\s?\/
+(?i)huge give\s?aways?.*?(twitch\/?t?v?|youtube)\s?\/
+(?i)(twitch\/?t?v?|youtube).*?give\s?away
 (?i)huge payouts.*?\(\d+[km] to \d+[km]
 (?i)rewarding players \d+[km].*?youtube
 (?i)search on youtube.*?win \d+[km]
