@@ -37,7 +37,7 @@
 (?i)^i need (gp|gold|money|items?) (please|pl(s|z))
 (?i)^trading up .*?
 (?i)(accepting|taking) (all )?donations?
-(?i)any\s(1|one) (spare |help with )(a )?(g(\sp|old)|money|items?|bond)
+(?i)any\s(1|one) (spare |help with )((a )?(g(\sp|old)|money|items?|bond)|some junk)
 (?i)can anyone.*?donate me (g(\sp|old)|money|items?)
 (?i)can someone help a noob
 (?i)could use help with a bond
@@ -63,4 +63,5 @@
 (?i)selling \d{1,3} (trouts?|salmone?s?|tunas?|logs?)
 (?i)the first.*?won'?t regret it
 (?i)want to earn.*?money.*?account
+(?i)win \d+[gkm].*?search on youtube
 ```
