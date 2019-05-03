@@ -65,4 +65,5 @@
 (?i)want to earn.*?money.*?account
 (?i)win \d+[gkm].*?search on youtube
 (?i)you only need to trade.*?current queue.*?\[\d+\]
+(?i)time limit reached, declining
 ```
