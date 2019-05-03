@@ -66,5 +66,5 @@
 (?i)win \d+[gkm].*?search on youtube
 (?i)you only need to trade.*?current queue.*?\[\d+\]
 (?i)time limit reached, declining
-\(\d+[gkm]-\d+[gkm]\).*?\[\d{2}:\d{2}:\d{2}\]
+(?i)\(\d+[gkm]-\d+[gkm]\).*?\[\d{2}:\d{2}:\d{2}\]
 ```
