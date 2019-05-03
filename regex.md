@@ -29,7 +29,7 @@
 (?i)discord.*?free \d+[gkm].*?give\s?aways?
 (?i)given away every hour
 (?i)huge give\s?aways?.*?(twitch\/?t?v?|youtube)\s?\/
-(?i)j?o?i?n?.*?\d+\s?([gkm]|million) give\s?away?s
+(?i)j?o?i?n?.*?\d+\s?([gkm]|million) give\s?aways?
 (?i)rewarding players \d+[gkm].*?(twitch|youtube)
 (?i)weekly.*?earn up to \d+[gkm] o?s?r?s? g(\s?p|old)
 (?i)^(can|need) someone (to )?donate
@@ -52,7 +52,7 @@
 (?i)swap your (rs3\/07|07\/rs3)?\s?(g(\sp|old)|money|items?)
 (?i)want to transfer your (rs3\/07|07\/rs3)
 (?i)(best|come play).*?rsps
-(?i)[0-9\.](.*?\/.*?)?[usd \/]m
+(?i)[0-9\.](.*?\/.*?)?usd\s?\/\s?m
 (?i)b\s*e\s*s\s*t.*?legit.*?s\s*i\s*t\s*e
 (?i)bypass g\.e limits at \[.*?\] cc
 (?i)firecape & acc
