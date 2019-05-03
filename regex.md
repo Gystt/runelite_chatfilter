@@ -52,7 +52,7 @@
 (?i)swap your (rs3\/07|07\/rs3)?\s?(g(\sp|old)|money|items?)
 (?i)want to transfer your (rs3\/07|07\/rs3)
 (?i)(best|come play).*?rsps
-(?i)[0-9\.](.*?\/.*?)?usd\s?\/\s?m
+(?i)[0-9\.](.*?\/.*?)?u\ss\sd\s?\/\s?m
 (?i)b\s*e\s*s\s*t.*?legit.*?s\s*i\s*t\s*e
 (?i)bypass g\.e limits at \[.*?\] cc
 (?i)firecape & acc
