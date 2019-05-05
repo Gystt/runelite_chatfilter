@@ -66,6 +66,8 @@
 (?i)win \d+[gkm].*?search on youtube
 (?i)you only need to trade.*?current queue.*?\[\d+\]
 (?i)time limit reached, declining
-(?i)\(\d+[gkm]-\d+[gkm]\).*?\[\d{2}:\d{2}:\d{2}\]
 (?i)\[\d+[gkm] min\] - \[\d+[gkm] max\]
+(?i)taking unwanted junk
+(?i)swap(ing)?.*?rs3\/07(\/dmm) g(p|old)
+(?i)doubling gp or items \d+[gkm] left
 ```
