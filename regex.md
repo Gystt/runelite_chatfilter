@@ -72,5 +72,5 @@
 (?i)doubling gp or items \d+\s?[gkm] left
 (?i)\(\d+\s?[gkm] - \d+\s?[gkm]\).*?trade to play.*?\[\d{2}:\d{2}:\d{2}\]
 (?i)has traded \[\d+(\.\d+)?\s?[gkm].*?\[\d{2}:\d{2}:\d{2}\]
-(?i)has rolled an? \[\s?\d+\s?\] and lost.*?\[\d{2}:\d{2}:\d{2}\]
+(?i)has rolled an? \[\s?\d+\s?\] and (lost|won).*?\[\d{2}:\d{2}:\d{2}\]
 ```
