@@ -74,5 +74,8 @@
 (?i)has traded \[\d+(\.\d+)?\s?[gkm].*?\[\d{2}:\d{2}:\d{2}\]
 (?i)has rolled an? \[\s?\d+\s?\] and (has )?(lost|won)( the pot of \[\d+(\.\d+)?\s?[gkm]|.*?\[\d{2}:\d{2}:\d{2}\])
 (?i)over 5\d .*?\d+\s?[gkm] min.*?(legit|quick plays?)
-(?i)^.*? has rec(ei|ie)ved: \d+\s?[gkm]$
+(?i)^.*? has rec(ei|ie)ved: \d+\s?[gkm]\s?$
+(?i)^.*? wins! \d+\s?[gkm] with a \d+\s?$
+(?i)^trade from .*?: \d+\s?[gkm]\s?$
+(?i)^.*? lost.*? with a \d+\s?$
 ```
