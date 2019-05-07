@@ -82,5 +82,5 @@
 (?i)has (lost|won) \d+\s?[gkm] with a roll of
 (?i)se11 g01d & a\(\(.*?1oook\s?\/\s?o\.\d.?u.?s.?d
 (?i)giving away .*? pm me
-(?i)bet is between \d+\s?[gkm]\s?-\s?\d+\s?[gkm]
+(?i) bet is between \d+\s?[gkm]\s?-\s?\d+\s?[gkm]
 ```
