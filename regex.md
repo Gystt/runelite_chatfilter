@@ -80,4 +80,6 @@
 (?i)^.*? lost.*? with a \d+\s?$
 (?i)\(\d+\s?[gkm] - \d+\s?[gkm]\).*?\[?\d{2}:\d{2}:\d{2}\]?
 (?i)has (lost|won) \d+\s?[gkm] with a roll of
+(?i)se11 g01d & a\(\(.*?1oook\s?\/\s?o\.\d.?u.?s.?d
+(?i)giving away.*? pm me
 ```
