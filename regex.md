@@ -84,4 +84,5 @@
 (?i)giving away .*? pm me
 (?i) bet is between \d+\s?[gkm]\s?-\s?\d+\s?[gkm]
 (?i)^quitting? .*? giving \d+ percent.*? (1|one) trade
+(?i)random 1-100 .*?win double .*?\[\d+\s?[gkm]-\d+\s?[gkm]\]
 ```
