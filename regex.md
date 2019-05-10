@@ -85,4 +85,7 @@
 (?i) bet is between \d+\s?[gkm]\s?-\s?\d+\s?[gkm]
 (?i)^quitting? .*? giving \d+ percent.*? (1|one) trade
 (?i)random 1-100 .*?win double .*?\[\d+\s?[gkm]-\d+\s?[gkm]\]
+(?i)random 1-100 .*?win double .*?\[\d+\s?[gkm]-\d+\s?[gkm]\]
+(?i)1-100 \[over \d+\].*? win double
+(?i)rolled \[\s?\d+\s?\].*?\[\s?(lose|win)\s?\]
 ```
