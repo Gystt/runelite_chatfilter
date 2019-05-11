@@ -88,4 +88,5 @@
 (?i)1-100 \[over \d+\].*? win double
 (?i)rolled \[\s?\d+\s?\].*?\[\s?(lose|win)\s?\]
 (?i)^\s?big wins.*?\(\d+\s?[gkm]\s?(to|2|-)\s?\d+\s?[gkm]\)
+(?i)has rec(ei|ie)ved .*? win.*? \d+\s?[gkm]
 ```
