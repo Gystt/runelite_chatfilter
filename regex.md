@@ -90,4 +90,5 @@
 (?i)^\s?big wins.*?\(\d+\s?[gkm]\s?(to|2|-)\s?\d+\s?[gkm]\)
 (?i)has rec(ei|ie)ved .*? win.*? \d+\s?[gkm]
 (?i)(^| )5\d\s?-\s?100\s?=\s?w\s?i\s?n.*?\d+\s?[gkm] (to|too|2|-) \d+\s?[gkm]
+(?i)quitting .*?giving \d+ percent.*? show
 ```
