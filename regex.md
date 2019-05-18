@@ -71,9 +71,10 @@
 (?i)has (lost|won) \d+\s?[gkm] with a roll of
 (?i)has rec(ei|ie)ved .*? win.*? \d+\s?[gkm]
 (?i)has rolled an? [\[\({]\s?\d+\s?[\]\)}] and (has )?(lost|won)( the pot of [\[\({]\d+(\.\d+)?\s?[gkm]|.*?[\[\({]\d{2}:\d{2}:\d{2}[\]\)}])
+(?i)[\[\({]\d+\s?[gkm](\s?min)?[\]\)}].*?trade to play
 (?i)has traded [\[\({]\d+(\.\d+)?\s?[gkm].*?[\[\({]\d{2}:\d{2}:\d{2}[\]\)}]
 (?i)hosting.*?\d+\s?[gkm] min
-(?i)huge payouts?.*?\(\d+\s?[gkm] to \d+\s?[gkm]
+(?i)(huge|massive) payouts?.*?\(\d+\s?[gkm] to \d+\s?[gkm]
 (?i)next \d+.*?win \d+\s?[gkm]
 (?i)original rng is back.*?\(\d+\s?[gkm] to \d+\s?[gkm]
 (?i)over 5\d .*?\d+\s?[gkm] min.*?(legit|quick plays?)
