@@ -2,6 +2,7 @@
 (?i)^(can|need) someone (to )?donate
 (?i)^(doubl|tripl)ing\s?(g(\s?p|old)|money|items?)?$
 (?i)^(taking|accepting)( all)? junk$
+(?i)^giving \d{2}% of what you show
 (?i)^i need (gp|gold|money|items?) (please|pl(s|z))
 (?i)^quitting? .*? giving \d+ percent.*? (1|one) trade
 (?i)^trading up .*?
