@@ -105,4 +105,5 @@
 (?i)win \d+\s?[gkm].*?search on youtube
 (?i)join ([\[\({])?discord.*?(gamble today|flower games)
 (?i)commission staking.*?discord
+(?i)staking.*?blackjack.*?dicing.*?discord
 ```
