@@ -2,10 +2,10 @@
 (?i)^(can|need) someone (to )?donate
 (?i)^(doubl|tripl)ing\s?(g(\s?p|old)|money|items?)?$
 (?i)^(taking|accepting)( all)? junk$
-(?i)^giving \d{2}% of what you show
 (?i)^i need (gp|gold|money|items?) (please|pl(s|z))
 (?i)^quitting? .*? giving \d+ percent.*? (1|one) trade
 (?i)^trading up .*?
+(?i)giving \d{2}% of what you show
 (?i)(2|two|too?) trade (doubl|tripl)ing
 (?i)(accepting|taking) (all )?donations?
 (?i)(can )?(any\s?(1|one) )?(doubl|tripl)(e( my)?|ing) ((g(\sp|old)|money|items?).*?((\d+\s?[gkm] left|or (g(\sp|old)|money|items?))|up\s?to\s?\d+\s?[gkm])|((till )?\d+\s?[gkm]|g(\sp|old)|money|items?))
@@ -66,6 +66,8 @@
 (?i)[\[\({]win[\]\)}] rolled [\[\({]\d+[\]\)}]
 (?i)1-100 [\[\({]over \d+[\]\)}].*? win double
 (?i)dicing.*?(dice|flower) games?
+(?i)\d{2}\s?-\s?100.*?\d+\s?[gkm] min
+(?i)original host.*?\d+\s?[gkm] min
 (?i)drop parties.*?give\s?aways?.*?dice games?
 (?i)goodie bag.*?choose a number
 (?i)has (been paid.*?\d+\s?[gkm]|(lost.*?|won.*?[\[\({]\d+\s?[gkm].*?)with a roll)
@@ -78,6 +80,7 @@
 (?i)(huge|massive) payouts?.*?\(\d+\s?[gkm] to \d+\s?[gkm]
 (?i)next \d+.*?win \d+\s?[gkm]
 (?i)original rng is back.*?\(\d+\s?[gkm] to \d+\s?[gkm]
+(?i)^want to bet.*? (gold|gp|coins|money)
 (?i)over 5\d .*?\d+\s?[gkm] min.*?(legit|quick plays?)
 (?i)random 1-100 .*?win double .*?[\[\({]\d+\s?[gkm]-\d+\s?[gkm][\]\)}]
 (?i)rolled [\[\({]\s?\d+\s?[\]\)}].*?[\[\({]\s?(lose|win)\s?[\]\)}]
@@ -100,4 +103,6 @@
 (?i)rewarding players \d+\s?[gkm].*?(twitch|youtube)
 (?i)weekly.*?earn up to \d+\s?[gkm] o?s?r?s? g(\s?p|old)
 (?i)win \d+\s?[gkm].*?search on youtube
+(?i)join ([\[\({])?discord.*?(gamble today|flower games)
+(?i)commission staking.*?discord
 ```
