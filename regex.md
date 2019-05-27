@@ -106,4 +106,7 @@
 (?i)join ([\[\({])?discord.*?(gamble today|flower games)
 (?i)commission staking.*?discord
 (?i)staking.*?blackjack.*?dicing.*?discord
+(?i)giveaway.*?search (on )?y[o0]utube
+(?i)trusted exchange service.*?swap
+(?i)quitting.*?\d{2} percent of what you show
 ```
