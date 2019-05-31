@@ -5,6 +5,7 @@
 (?i)^i need (gp|gold|money|items?) (please|pl(s|z))
 (?i)^quitting? .*? giving \d+ percent.*? (1|one) trade
 (?i)^trading up .*?
+(?i)quitting.*?\d{2} percent of what you show
 (?i)giving \d{2}% of what you show
 (?i)(2|two|too?) trade (doubl|tripl)ing
 (?i)(accepting|taking) (all )?donations?
@@ -42,6 +43,7 @@
 (?i)bypass g\.e limits at [\[\({].*?[\]\)}] cc
 (?i)firecape & acc
 (?i)join\s?([\[\({].*?swap.*?[\]\)}]|>>.*?<<.*?most trusted|.*?check forums|.*?for daily rewards|.*?most trusted.*?swap cc)
+(?i)trusted exchange service.*?swap
 (?i)s\s*e\s*l\s*l\s*r\s*s\s*0\s*7
 (?i)se[l1][l1]i?n?g?\s?\s?g\s?[o0]\s?[l1]\s?d
 (?i)se11 g01d & a\(\(.*?1oook\s?\/\s?o\.\d.?u.?s.?d
@@ -68,6 +70,7 @@
 (?i)dicing.*?(dice|flower) games?
 (?i)\d{2}\s?-\s?100.*?\d+\s?[gkm] min
 (?i)original host.*?\d+\s?[gkm] min
+(?i)\d{2}x\d.*?\d+\s?[gkm] min
 (?i)drop parties.*?give\s?aways?.*?dice games?
 (?i)goodie bag.*?choose a number
 (?i)has (been paid.*?\d+\s?[gkm]|(lost.*?|won.*?[\[\({]\d+\s?[gkm].*?)with a roll)
@@ -107,6 +110,4 @@
 (?i)commission staking.*?discord
 (?i)staking.*?blackjack.*?dicing.*?discord
 (?i)giveaway.*?search (on )?y[o0]utube
-(?i)trusted exchange service.*?swap
-(?i)quitting.*?\d{2} percent of what you show
 ```
