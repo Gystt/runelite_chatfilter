@@ -114,4 +114,5 @@
 (?i)commission staking.*?discord
 (?i)staking.*?blackjack.*?dicing.*?discord
 (?i)giveaway.*?search (on )?y[o0]utube
+(?i)accounts stocked \d+\s?[gkm].*?giveaways
 ```
