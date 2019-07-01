@@ -47,7 +47,7 @@
 (?i)s\s*e\s*l\s*l\s*r\s*s\s*0\s*7
 (?i)se[l1][l1]i?n?g?\s?\s?g\s?[o0]\s?[l1]\s?d
 (?i)se11 g01d & a\(\(.*?1oook\s?\/\s?o\.\d.?u.?s.?d
-(?i)swap your ((07|dmm|rs3)\s?\/\s?(07|dmm|rs3)\s?\/\s?(07|dmm|rs3))\s?(g(\s?p|old)|money|items?)
+(?i)swap your ((07|d\.?m\.?m|rs3)\s?\/\s?(07|d\.?m\.?m|rs3)\s?\/\s?(07|d\.?m\.?m|rs3))\s?(g(\s?p|old)|money|items?)
 (?i)swap(ing)?.*?rs3\/07(\/dmm) g(p|old)
 (?i)want to transfer your (rs3\/07|07\/rs3)
 (?i) bet is between \d+\s?[gkm]\s?-\s?\d+\s?[gkm]
@@ -109,7 +109,8 @@
 (?i)j?o?i?n?.*?\d+\s?(\s?[gkm]|million) give\s?aways?
 (?i)rewarding players \d+\s?[gkm].*?(twitch|youtube)
 (?i)weekly.*?earn up to \d+\s?[gkm] o?s?r?s? g(\s?p|old)
-(?i)win \d+\s?[gkm].*?search on youtube
+(?i)(rewarding|win) \d+\s?[gkm](il)?.*?youtube
+(?i)winners .*?search\s+youtube
 (?i)join ([\[\({])?discord.*?(gamble today|flower games)
 (?i)commission staking.*?discord
 (?i)staking.*?blackjack.*?dicing.*?discord
