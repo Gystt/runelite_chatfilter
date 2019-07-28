@@ -116,4 +116,10 @@
 (?i)staking.*?blackjack.*?dicing.*?discord
 (?i)(giveaway|reward(ing)?).*?search (on )?y[o0]utube
 (?i)accounts stocked \d+\s?[gkm].*?giveaways
+(?i)(join|crazy winnings?!?).*?\d+\s?[gkm] min.*?roll \d{2}+
+(?i)swap safely.*?trusted
+(?i)most trusted swap clan
+(?i)(giving|next) \d+ players (win )?\d+\s?[gkm]
+(?i)\d+ lucky participants will win \d+\s?[gkm]
+(?i)lucky.*?look (o|0)n you,?tube?
 ```
