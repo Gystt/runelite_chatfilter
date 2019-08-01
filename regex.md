@@ -122,6 +122,5 @@
 (?i)(giving|next) \d+ players (win )?\d+\s?[gkm]
 (?i)\d+ lucky participants will win \d+\s?[gkm]
 (?i)lucky.*?look (o|0)n you,?tube?
-(?i)\d+\s?[gkm]-\d+\s?[gkm].*?roll \d{2}+
-(?i)\d+\s?[gkm].*?roll \d{2}+
+(?i)\d+\s?[gkm](-\d+\s?[gkm])?.*?roll \d{2}+
 ```
